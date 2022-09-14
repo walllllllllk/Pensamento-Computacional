@@ -1,0 +1,151 @@
+body {
+    
+ }
+
+#Computacional {
+    width: 100%
+} 
+
+#Computacional {
+     height: 600px;
+}
+
+#Pensamento {
+    width: 600px
+}
+
+#Pensamento {
+     height: 600px
+}
+
+ .principal {
+    background: blue
+ }
+
+ .principal {
+    padding: 13px;
+ }
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+ }
+
+ #missao {
+    font-size: 20px
+ }
+
+em strong {
+    color: blueviolet
+}
+
+.itens {
+    font-style: italic
+}
+
+.beneficios {
+    background: #FFFFFF
+}
+
+.beneficios {
+    padding: 20px;
+}
+
+h2 {
+   text-align: center
+}
+
+.pilares {
+    font-style: italic
+}
+
+#linhas {
+    font-size: 23px
+}
+
+#pensamento {
+    font-size: 17px
+}
+   
+#computacional {
+    font-size: 17px
+}
+
+#reconhecimento {
+    font-size: 19px
+}
+
+#decomposição {
+    font-size: 19px
+}
+
+#abstração {
+    font-size: 19px
+}
+
+#algoritmo {
+    font-size: 19px
+}
+
+#sobre {
+    font-size: 32px
+}
+
+#vantagens {
+    font-size: 25px
+}
+
+h2 {
+    color: white 
+}
+
+p {
+    color: white
+}
+
+ul {
+   display: inline-block   
+}
+
+ul {
+   vertical-align: top;
+}
+
+ul {
+   width: 20%;
+}
+
+ul {
+  margin-right: 25%;
+}
+
+.imagempensamento {
+    width: 50%;
+}
+
+h3 {
+    text-align: center
+}
+
+#autonomia {
+    font-size: 20px
+}
+
+#criatividade {
+    font-size: 20px
+}
+
+#complexos {
+    font-size: 20px
+}
+
+#diferencial {
+    font-size: 20px
+}
+
+#auxilia {
+  font-size: 20px
+}
